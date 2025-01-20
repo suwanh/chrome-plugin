@@ -1,0 +1,10 @@
+{
+  "name": "wan的谷歌小插件",
+  "description": "wan的谷歌小插件",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "/images/popup.png"
+  }
+}
