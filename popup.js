@@ -33,6 +33,7 @@ function changeLetter() {
   switch (type) {
     case 'upper':
       result = value.toUpperCase();
+      console.log(2)
       break;
     case "upperReplace":
       result = value.toUpperCase()?.replace(' ', '_');
